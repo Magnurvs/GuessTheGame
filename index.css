@@ -1,0 +1,78 @@
+    #body {
+        background-color: #5F264A;
+    }
+    
+    #userInput {
+        height: 80px;
+        width: 200px;
+        font-size: 50px;
+        text-align: center;
+        background-color: #5F264A;
+        border: #ffffff solid 5px;
+        color: #ffffff;
+    }
+    
+    .btn2 {
+        height: 40px;
+        width: 100px;
+        background-color: #ffffff;
+        margin-left: 50px;
+        margin-top: 10px;
+        border: 0px;
+    }
+    
+    .lowerContainer {
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
+    .container2 {
+        color: #ffffff;
+    }
+    
+    .container1 {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .top {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .btn1 {
+        height: 60px;
+        width: 140px;
+        background-color: #ffffff;
+    }
+    
+    .guessBox {
+        height: 150px;
+        width: 150px;
+        background-color: #ffffff;
+        color: black;
+        font-size: 40px;
+    }
+    
+    .main-container {
+        color: #ffffff;
+    }
+    
+    #fetchNumber {
+        padding: 20px 0px 0px 30px;
+    }
+    
+    .down {
+        margin-left: 680px;
+    }
+    
+    .lowerContainer {
+        margin-top: 100px;
+    }
+    
+    hr {
+        height: 10px;
+        background-color: #ffffff;
+        margin-top: -100px;
+        border: 0px;
+    }
